@@ -1,5 +1,27 @@
 {
   "dependencies": {
     "typescript": "^4.5.2"
-  }
+  },
+  "name": "learntypescript",
+  "description": "Repo to organize TypeScript learning",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joeauyeung/learntypescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joeauyeung/learntypescript/issues"
+  },
+  "homepage": "https://github.com/joeauyeung/learntypescript#readme"
 }
